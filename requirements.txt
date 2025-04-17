@@ -1,0 +1,9 @@
+# Python dependencies for resume tools
+# No additional packages required for basic PDF compilation
+# The script uses only standard Python libraries:
+# - os
+# - subprocess
+# - sys
+# - platform
+# - shutil
+# - argparse 
